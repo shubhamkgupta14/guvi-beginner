@@ -4,9 +4,9 @@ void main(){
     printf("Character: ");
     scanf("%s",&a);
     if(a>=65 && a<=90 || a>=97 && a<=122){
-        printf("Character\n");
+        printf("Alphabet\n");
     }
     else{
-        printf("Not a character\n");
+        printf("Not an Alphabet\n");
     }
 }
